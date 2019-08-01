@@ -1,7 +1,5 @@
-#EXTM3U
-#EXTINF:-1 ,====== 大陆节目 ======
-http://0/0.m3u8
-#EXTINF:-1 ,峨眉电影HD
+
+#EXTINF:-1 ,峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
 #EXTINF:-1 ,厦门卫视
 http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8
