@@ -1,9 +1,19 @@
 {
-	"uuid":"ec6fa433-c9ee-49c0-9491-bc35a2e46fea",
-	"title": "爱情剧场",
-	"channels": 
-  [
-	{"name":"君岛美绪","url":"http://video.gujianzhixiang.com:8091/81820190301/818201903010538/index.m3u8"},
-	{"name":"神宫寺ナオ","url":"http://video.gujianzhixiang.com:8091/81820190301/818201903010424/index.m3u8"},
-  ]
+         "uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+         "title": "影视大全",
+         "channels": [
+         {
+            "name": "猫和老鼠",
+            "url": "https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8",
+        },
+		{
+			"name":"レズビアン大乱交-朝桐光&美月优芽-",
+			"url":"http://video.gujianzhixiang.com:8091/81820190215/818201902150349/index.m3u8"
+		},
+		{
+			"name":"巨乳女教师と5年ぶりに再会 成长した仆のSEXテクで立场逆転 西宫美月",
+			"url":"http://video.gujianzhixiang.com:8091/81820190301/818201903010394/index.m3u8"
+		},
+
+   ]
 }
