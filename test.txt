@@ -1,3 +1,0 @@
-峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
-厦门卫视,http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8
-厦门卫视,http://cstvpull.live.wscdns.com/live/xiamen.flv
