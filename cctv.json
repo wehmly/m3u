@@ -1,20 +1,12 @@
-{
-	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
-	"title": "央视",
-	"channels": 
-  [
-{"name":"CCTV1FHD","url":"http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8"},
-{"name":"CCTV2FHD","url":"http://112.50.243.8/PLTV/88888888/224/3221225800/1.m3u8"},
-{"name":"CCTV3FHD","url":"http://111.40.205.87/PLTV/88888888/224/3221225606/index.m3u8"},
-{"name":"CCTV4FHD","url":"http://39.135.16.142:6060/PLTV/88888888/224/3221225744/1/index.m3u8?fmt=ts2hls"},
-{"name":"CCTV5FHD","url":"http://112.17.40.140/PLTV/88888888/224/3221226400/index.m3u8"},
-{"name":"CCTV5+FHD","url":"http://111.40.205.87/PLTV/88888888/224/3221225752/index.m3u8"},
-{"name":"CCTV6FHD","url":"http://111.40.205.87/PLTV/88888888/224/3221225607/index.m3u8"},
-{"name":"CCTV7FHD","url":"http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8"},
-{"name":"CCTV8FHD","url":"http://111.40.205.87/PLTV/88888888/224/3221225608/index.m3u8"},
-{"name":"CCTV9FHD","url":"http://112.17.40.140/PLTV/88888888/224/3221226156/index.m3u8"},
-{"name":"CCTV10FHD","url":"http://112.17.40.140/PLTV/88888888/224/3221226199/index.m3u8"},
-{"name":"CCTV12FHD","url":"http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8"},
-{"name":"CCTV14FHD","url":"http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8"},
-  ]
-}
+#EXTM3U
+#EXTINF:-1 ,CCTV1综合
+https://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 ,CCTV1综合
+http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 ,CCTV1综合
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2_hd.m3u8
+#EXTINF:-1 ,CCTV1综合
+http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 ,CCTV1综合(移动线路)
+http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+#EXTINF:-1 ,CCTV2财经
