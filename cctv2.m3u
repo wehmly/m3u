@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1 ,CCTV1综合
 https://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
 #EXTINF:-1 ,CCTV1综合
@@ -10,7 +10,7 @@ http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2/index.m3u8
 #EXTINF:-1 ,CCTV1综合(移动线路)
 http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
 #EXTINF:-1 ,CCTV2财经
-
+#EXTM3U
 #EXTINF:-1 ,翡翠台
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,翡翠台
