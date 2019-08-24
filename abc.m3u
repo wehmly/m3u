@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://198.46.202.205:1219/files/m3u/FM107.jpg",FM107
+#EXTINF:-1 ,FM107
 http://ls.qingting.fm/live/4523.m3u8
