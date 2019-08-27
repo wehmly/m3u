@@ -1,6 +1,54 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm107.png",浙江城市之声FM107
 http://ls.qingting.fm/live/4523.m3u8
+#EXTINF:-1 tvg-logo=" ",浙江之声 FM88
+http://ls.qingting.fm/live/4518.m3u8
+#EXTINF:-1 tvg-logo=" ",浙江财富广播 FM95
+http://ls.qingting.fm/live/4519.m3u8
+#EXTINF:-1 tvg-logo=" ",浙江动听(音乐调频) FM96.8
+http://ls.qingting.fm/live/4866.m3u8
+#EXTINF:-1 tvg-logo=" ",浙江民生 FM99.6
+http://ls.qingting.fm/live/4521.m3u8
+#EXTINF:-1 tvg-logo=" ",浙江交通之声 FM93
+http://ls.qingting.fm/live/4522.m3u8
+#EXTINF:-1 tvg-logo=" ",浙江女主播电台 FM104.5
+http://ls.qingting.fm/live/4524.m3u8
+#EXTINF:-1 tvg-logo=" ",浙江新闻广播新锐 FM98.8
+http://ls.qingting.fm/live/2686006.m3u8
+#EXTINF:-1 tvg-logo=" ",华语之声新青年频道
+http://video.hy960.com:960/live.mp3
+#EXTINF:-1 tvg-logo=" ",杭州新闻广播 FM89
+http://ls.qingting.fm/live/1134.m3u8
+#EXTINF:-1 tvg-logo=" ",杭州综合广播 FM90.7
+http://ls.qingting.fm/live/4546579.m3u8
+#EXTINF:-1 tvg-logo=" ",杭州交通广播 FM91.8
+http://ls.qingting.fm/live/1133.m3u8
+#EXTINF:-1 tvg-logo=" ",杭州老朋友广播 AM954
+http://ls.qingting.fm/live/1132.m3u8
+#EXTINF:-1 tvg-logo=" ",杭州西湖之声 FM105.4
+http://ls.qingting.fm/live/1163.m3u8
+#EXTINF:-1 tvg-logo=" ",四川新闻综合广播 FM98.1
+http://ls.qingting.fm/live/4906.m3u8
+#EXTINF:-1 tvg-logo=" ",四川财富广播 FM94.0
+http://ls.qingting.fm/live/4927.m3u8
+#EXTINF:-1 tvg-logo=" ",四川文艺广播 快乐900 FM90.0
+http://ls.qingting.fm/live/4887.m3u8
+#EXTINF:-1 tvg-logo=" ",四川岷江音乐 FM95.5
+http://ls.qingting.fm/live/1110.m3u8
+#EXTINF:-1 tvg-logo=" ",四川旅游广播 FM97.0
+http://ls.qingting.fm/live/1116.m3u8
+#EXTINF:-1 tvg-logo=" ",四川交通广播 FM101.7
+http://ls.qingting.fm/live/4886.m3u8
+#EXTINF:-1 tvg-logo=" ",四川城市之音 CityFM FM102.6
+http://ls.qingting.fm/live/1111.m3u8
+#EXTINF:-1 tvg-logo=" ",四川民族广播 AM954
+http://ls.qingting.fm/live/1115.m3u8
+#EXTINF:-1 tvg-logo=" ",四川私家车广播 FM92.5
+http://ls.qingting.fm/live/4939.m3u8
+#EXTINF:-1 tvg-logo=" ",成都私家车音乐广播 FM105.1
+http://live.xmcdn.com/live/762/64.m3u8
+#EXTINF:-1 tvg-logo=" ",仁寿交通音乐广播
+http://ls.qingting.fm/live/2187893.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-1.png",CCTV-1 综合
 http://cctv.v.kcdnvip.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-2.png",CCTV-2 财经
