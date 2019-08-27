@@ -27,11 +27,11 @@ http://ls.qingting.fm/live/1133.m3u8
 http://ls.qingting.fm/live/1132.m3u8
 #EXTINF:-1 tvg-logo=" ",杭州西湖之声 FM105.4
 http://ls.qingting.fm/live/1163.m3u8
-#EXTINF:-1 tvg-logo=" ",四川新闻综合广播 FM98.1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm981.jpeg",四川之声广播 FM98.1
 http://ls.qingting.fm/live/4906.m3u8
-#EXTINF:-1 tvg-logo=" ",四川财富广播 FM94.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm940.jpeg",四川经济广播 FM94.0
 http://ls.qingting.fm/live/4927.m3u8
-#EXTINF:-1 tvg-logo=" ",四川文艺广播 快乐900 FM90.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm900.jpeg",四川文艺广播 快乐900 FM90.0
 http://ls.qingting.fm/live/4887.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm955.jpeg",四川岷江音乐 FM95.5
 http://ls.qingting.fm/live/1110.m3u8
