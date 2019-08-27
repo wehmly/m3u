@@ -43,21 +43,17 @@ https://ls.qingting.fm/live/5022004/64k.m3u8
 https://ls.qingting.fm/live/4023/64k.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/cdfm946.jpg",成都文化休闲广播 FM94.6
 https://ls.qingting.fm/live/4892/64k.m3u8
-#EXTINF:-1 tvg-logo=" ",上海动感101 FM101.7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/shfm1017.jpg",上海动感101 FM101.7
 http://ls.qingting.fm/live/274.m3u8
-#EXTINF:-1 tvg-logo=" ",五星体育 FM94.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/shfm940.jpg",五星体育 FM94.0
 http://ls.qingting.fm/live/4928.m3u8
-#EXTINF:-1 tvg-logo=" ",CRI Hit FM FM88.7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/crifm887.jpg",CRI Hit FM FM88.7
 http://ls.qingting.fm/live/1007.m3u8
-#EXTINF:-1 tvg-logo=" ",CRI 环球资讯广播 FM90.5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/crifm905.jpg",CRI 环球资讯广播 FM90.5
 http://ls.qingting.fm/live/24035.m3u8
-#EXTINF:-1 tvg-logo=" ",CNR 经典音乐广播 101.8
-http://ls.qingting.fm/live/389.m3u8
-#EXTINF:-1 tvg-logo=" ",CNR 中国乡村之声
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/cnrxczs.jpg",CNR 中国乡村之声
 http://ls.qingting.fm/live/5039.m3u8
-#EXTINF:-1 tvg-logo=" ",CNR 古典音乐
-http://ls.qingting.fm/live/4993.m3u8
-#EXTINF:-1 tvg-logo=" ",CNR 相声小品
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/cnrxsxp.jpg",CNR 相声小品
 http://ls.qingting.fm/live/4990.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/rsfm901.png",仁寿交通音乐广播
 http://ls.qingting.fm/live/2187893.m3u8
