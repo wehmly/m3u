@@ -19,7 +19,7 @@ http://ls.qingting.fm/live/4524.m3u8
 http://ls.qingting.fm/live/1133.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/hzfm907.jpeg",杭州音乐广播 FM90.7
 https://ls.qingting.fm/live/15318146/64k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm981.jpeg",四川之声广播 FM98.1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm981.png",四川之声广播 FM98.1
 http://ls.qingting.fm/live/4906.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm940.jpeg",四川经济广播 FM94.0
 http://ls.qingting.fm/live/4927.m3u8
