@@ -14,7 +14,7 @@ http://cctv.v.kcdnvip.com/live/cctveurope_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-4.png",CCTV-4 中文国际 美洲
 http://cctv.v.kcdnvip.com/live/cctvamerica_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-5.png",CCTV-5 体育
-http://cctv.v.kcdnvip.com/live/cctv5_1/index.m3u8?adapt=0&BR=audio
+CCTV-5 体育,http://cctv5.v.myalicdn.com/live/cctv5_1audio.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-5+.png",CCTV-5+ 体育赛事
 http://cctv.v.kcdnvip.com/live/cctv5plus_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-6.png",CCTV-6 电影
