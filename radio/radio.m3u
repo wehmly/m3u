@@ -11,9 +11,9 @@ http://ls.qingting.fm/live/4521.m3u8
 http://ls.qingting.fm/live/4519.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm93.png",浙江交通之声 FM93
 http://ls.qingting.fm/live/4522.m3u8
-#EXTINF:-1 tvg-logo=" ",浙江之声 FM88
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm88.jpg",浙江之声 FM88
 http://ls.qingting.fm/live/4518.m3u8
-#EXTINF:-1 tvg-logo=" ",浙江女主播电台 FM104.5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm1045.jpg",浙江女主播电台 FM104.5
 http://ls.qingting.fm/live/4524.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/hzfm918.png",杭州交通广播 FM91.8
 http://ls.qingting.fm/live/1133.m3u8
