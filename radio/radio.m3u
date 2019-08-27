@@ -23,6 +23,8 @@ http://ls.qingting.fm/live/1134.m3u8
 http://ls.qingting.fm/live/4546579.m3u8
 #EXTINF:-1 tvg-logo=" ",杭州交通广播 FM91.8
 http://ls.qingting.fm/live/1133.m3u8
+#EXTINF:-1 tvg-logo=" ",杭州音乐 FM90.7
+https://ls.qingting.fm/live/15318146/64k.m3u8
 #EXTINF:-1 tvg-logo=" ",杭州老朋友广播 AM954
 http://ls.qingting.fm/live/1132.m3u8
 #EXTINF:-1 tvg-logo=" ",杭州西湖之声 FM105.4
