@@ -45,11 +45,11 @@ http://ls.qingting.fm/live/4939.m3u8
 http://ls.qingting.fm/live/4886.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/cdfm1051.jpg",成都私家车音乐广播 FM105.1
 http://live.xmcdn.com/live/762/64.m3u8
-#EXTINF:-1 tvg-logo=" ",成都故事 FM88.2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/cdfm882.jpg",成都故事 FM88.2
 https://ls.qingting.fm/live/5022004/64k.m3u8
-#EXTINF:-1 tvg-logo=" ",成都音乐 FM103.2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/cdfm1032.jpg",成都音乐 FM103.2
 https://ls.qingting.fm/live/4023/64k.m3u8
-#EXTINF:-1 tvg-logo=" ",成都文化休闲 FM94.6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/cdfm946.jpg",成都文化休闲 FM94.6
 https://ls.qingting.fm/live/4892/64k.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/rsfm901.png",仁寿交通音乐广播
 http://ls.qingting.fm/live/2187893.m3u8
