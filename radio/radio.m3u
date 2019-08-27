@@ -5,7 +5,7 @@ http://ls.qingting.fm/live/4523.m3u8
 http://ls.qingting.fm/live/4866.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm988.jpeg",浙江新闻广播 FM98.8
 http://ls.qingting.fm/live/2686006.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm996.jpeg",浙江民生 FM99.6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm996.jpeg",浙江民生广播 FM99.6
 http://ls.qingting.fm/live/4521.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm95.jpg",浙江财富广播 FM95
 http://ls.qingting.fm/live/4519.m3u8
@@ -15,31 +15,21 @@ http://ls.qingting.fm/live/4522.m3u8
 http://ls.qingting.fm/live/4518.m3u8
 #EXTINF:-1 tvg-logo=" ",浙江女主播电台 FM104.5
 http://ls.qingting.fm/live/4524.m3u8
-#EXTINF:-1 tvg-logo=" ",华语之声新青年频道
-http://video.hy960.com:960/live.mp3
-#EXTINF:-1 tvg-logo=" ",杭州新闻广播 FM89
-http://ls.qingting.fm/live/1134.m3u8
-#EXTINF:-1 tvg-logo=" ",杭州综合广播 FM90.7
-http://ls.qingting.fm/live/4546579.m3u8
-#EXTINF:-1 tvg-logo=" ",杭州交通广播 FM91.8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/hzfm918.png",杭州交通广播 FM91.8
 http://ls.qingting.fm/live/1133.m3u8
-#EXTINF:-1 tvg-logo=" ",杭州音乐 FM90.7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/hzfm907.jpeg",杭州音乐广播 FM90.7
 https://ls.qingting.fm/live/15318146/64k.m3u8
-#EXTINF:-1 tvg-logo=" ",杭州老朋友广播 AM954
-http://ls.qingting.fm/live/1132.m3u8
-#EXTINF:-1 tvg-logo=" ",杭州西湖之声 FM105.4
-http://ls.qingting.fm/live/1163.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm981.jpeg",四川之声广播 FM98.1
 http://ls.qingting.fm/live/4906.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm940.jpeg",四川经济广播 FM94.0
 http://ls.qingting.fm/live/4927.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm900.jpeg",四川文艺广播 快乐900 FM90.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm900.jpeg",四川文艺广播 FM90.0
 http://ls.qingting.fm/live/4887.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm955.jpeg",四川岷江音乐 FM95.5
 http://ls.qingting.fm/live/1110.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm970.jpeg",四川旅游广播 FM97.0
 http://ls.qingting.fm/live/1116.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm1026.png",四川城市之音 CityFM FM102.6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm1026.png",四川城市之音 FM102.6
 http://ls.qingting.fm/live/1111.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/scfm925.jpg",四川私家车广播 FM92.5
 http://ls.qingting.fm/live/4939.m3u8
