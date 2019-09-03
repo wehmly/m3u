@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm107.png",浙江城市之声 电台FM107
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm107.png",浙江城市之声 电台 FM107
 http://ls.qingting.fm/live/4523.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm107.png",浙江城市之声 直播FM107
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm107.png",浙江城市之声 直播 FM107
 http://pull-xht.cztv.com/ihzlh/zj_fm_107.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/radio/zjfm968.jpeg",浙江动听音乐 FM96.8
 http://ls.qingting.fm/live/4866.m3u8
