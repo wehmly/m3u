@@ -1,24 +1,24 @@
-#EXTINF:-1 tvg-logo=" ",cctv1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-1.png",cctv1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
-#EXTINF:-1 tvg-logo=" ",cctv2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-2.png",cctv2
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-#EXTINF:-1 tvg-logo=" ",cctv3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-3.png",cctv3
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
-#EXTINF:-1 tvg-logo=" ",cctv4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-4.png",cctv4
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
-#EXTINF:-1 tvg-logo=" ",cctv5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-5.png",cctv5
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:-1 tvg-logo=" ",cctv5+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-5+.png",cctv5+
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
-#EXTINF:-1 tvg-logo=" ",cctv7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-7.png",cctv7
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:-1 tvg-logo=" ",cctv8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-8.png",cctv8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8
-#EXTINF:-1 tvg-logo=" ",cctv9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-9.png",cctv9
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
-#EXTINF:-1 tvg-logo=" ",cctv11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-11.png",cctv11
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
-#EXTINF:-1 tvg-logo=" ",cctv12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-12.png",cctv12
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1 tvg-logo=" ",cctv13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wehmly/m3u/master/logo/cctv/CCTV-13.png",cctv13
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
