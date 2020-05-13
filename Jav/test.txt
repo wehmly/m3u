@@ -7,11 +7,11 @@ page2_url_pre=https://meetyou.baby/?s=vod/type/3/
 page2_url_suffix=.html
 first_container_select=.layui-row video-list
 first_items_select=div.video-item
-title_select=div .p .text
+title_select=.div .p .text
 title_select_attr=none
-logo_select=div .img
+logo_select=.div .img
 logo_select_attr=src
-first_url_select=div .a
+first_url_select=.div .a
 first_url_select_attr=href
 logo_pre=none
 first_url_pre=none
