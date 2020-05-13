@@ -5,8 +5,8 @@ page_number=55
 page1_url=https://meetyou.baby/?s=vod/type/3/1.html
 page2_url_pre=https://meetyou.baby/?s=vod/type/3/
 page2_url_suffix=.html
-first_container_select=div.layui-row video-list
-first_items_select=div.video-item
+first_container_select=.layui-row .video-list
+first_items_select=.video-item
 title_select=p
 title_select_attr=none
 logo_select=img
