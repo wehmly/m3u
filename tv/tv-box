@@ -331,6 +331,36 @@ CCTV风云足球,http://61.184.128.243:1111/tsfile/live/1004_1.m3u8?key=txiptv&p
 黑龙江卫视,http://123.138.216.44:9902/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://36.40.237.225:9999/tsfile/live/0131_3.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://117.27.190.42:9998/tsfile/live/23256_1.m3u8?key=txiptv&playlive=1&authid=0
+体育频道,#genre#
+精品体育,http://117.187.29.38:6060/000000001000/6460382139625130259/1.m3u8?
+MUTV,https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+奥林匹克频道Olympic Channel,https://ott-live.olympicchannel.com/out/u/OC1_4.m3u8
+百事体育1(移动线路),http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225901/3.m3u8
+百事体育2(移动线路),http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225905/3.m3u8
+百事体育2(移动线路),http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225908/3.m3u8
+百事体育3(移动线路),http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225917/3.m3u8
+百事体育4(移动线路),http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225957/3.m3u8
+百事体育5(移动线路),http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225958/3.m3u8
+百事超级体育(移动线路),http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225906/3.m3u8
+百事超级体育2(移动线路),http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225907/3.m3u8
+五星体育(移动线路),http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
+极速汽车(移动线路),http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225962/3.m3u8
+广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+ESPN HD,http://80.80.160.168/live/6/live.m3u8
+ESPN 2HD,http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+SOCCER TV HD,http://45.126.83.51/uq2663/h/h20/index2.m3u8
+Fight time (ufc)HD,http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+Fight Sport,http://210.210.155.35/uq2663/h/h05/index.m3u8
+弈坛春秋,http://223.110.241.139:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
+高尔夫,http://223.110.241.139:6610/gitv/live1/G_GAOERFU/G_GAOERFU/
+篮球,http://223.110.241.139:6610/gitv/live1/G_LANQIU/G_LANQIU/
+江苏休闲体育,http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/
+NewTV中国功夫,http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
+五星体育[需中国移动或代理线路],http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225964/1.m3u8
+先锋乒羽,http://104.233.225.199:888/v/hunantv.php?id=329
+
+
+
 其他频道,#genre#
 CETV1,http://111.225.113.86:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV2,http://111.225.113.86:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
