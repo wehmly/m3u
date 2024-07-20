@@ -450,25 +450,7 @@ CCTV风云足球,http://61.184.128.243:1111/tsfile/live/1004_1.m3u8?key=txiptv&p
 体育频道,#genre#
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
-咪咕体育-4K-SDR源,http://120.234.220.107:9000/udp/239.20.0.66:3136
-南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
-山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
-CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
-杭州亚运,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
-广州竞赛,http://my.mytvtv.top/guangdong/gztv.php?id=gzjs
-广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-魅力足球,http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
-风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
-超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225648/2/index.m3u8
-超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225767/2/index.m3u8
-体育赛事,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226567/index.m3u8
+
 
 
 影视综合,#genre#
